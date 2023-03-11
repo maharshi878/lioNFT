@@ -1,0 +1,7 @@
+{
+  "name": "lioNFT's",
+  "description": "just a simple collection of nfts that you will definitely love!",
+  "image": "https://maharshi878.github.io/lioNFT/images/contract-icon.png",
+  "seller_fee_basis_points": 100,
+  "fee_recipient": "0x5CdC374582Dc501193176B723F32d24Ba6867b18"
+}
